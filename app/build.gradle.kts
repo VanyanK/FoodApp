@@ -41,6 +41,8 @@ dependencies {
     //coroutines
     implementation(libs.kotlinx.coroutines.android)
     implementation (libs.kotlinx.coroutines.core)
+    //gson
+    implementation (libs.gson)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation (libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.androidx.core.ktx)
